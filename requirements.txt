@@ -1,0 +1,10 @@
+#核心依赖
+numpy==1.26.0
+pandas>2.0.0
+matplotlib<3.8.0
+#开发和测试依赖
+pytest>7.0.0
+black==23.10.1
+isort>5.0.0
+flake8>=6.1.0
+mypy>=1.6.1

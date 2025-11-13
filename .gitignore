@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+
+# 测试 & 覆盖率
+.pytest_cache/
+.coverage
+coverage.xml
+
+# IDE / 编辑器
+.idea/
+.vscode/
+
+# 构建输出
+build/
+dist/
+*.egg-info/
+
+# 基准测试输出
+benchmark_results.json
+
