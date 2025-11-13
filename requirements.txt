@@ -1,5 +1,5 @@
 #核心依赖
-numpy==1.26.0
+numpy==1.24.4
 pandas>2.0.0
 matplotlib<3.8.0
 #开发和测试依赖
